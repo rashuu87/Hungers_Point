@@ -7,7 +7,7 @@ const Content = ({ data }) => {
             <div className={styles.foodcard}>
                 {data?.map(({ name, image, text, price }) => (
                 <div key={name} className={styles.foodCard}>
-                <div className="food_image">
+                <div className={styles.food_img}>
                     <img src={ image} alt={name} />
                 </div>
                 <div className={styles.foodInfo}>
