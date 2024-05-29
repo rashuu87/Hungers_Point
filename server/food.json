@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "name": "Apple",
+      "image":"/images/egg.png",
+      "text" :"sdhiuhfuvsuhbsk",
+      "type":"breakfast",
+      "price":10
+    },
+    {
+      "id": 2,
+      "name": "Banana",
+      "image":"/images/egg.png"
+    },
+    {
+      "id": 3,
+      "name": "Carrot",
+      "image":"hello"
+    },{
+      "id": 4,
+      "name": "Apple",
+      "image":"hello"
+    },
+    {
+      "id": 5,
+      "name": "Banana",
+      "image":"hello"
+    },
+    {
+      "id": 6,
+      "name": "Carrot",
+      "image":"hello"
+    }
+]
+  
