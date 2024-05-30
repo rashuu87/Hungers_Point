@@ -1,11 +1,15 @@
+
 const express = require('express');
 const cors = require('cors');
+const path = require('path');
 const app = express();
 const port = 3002;
 
 app.use(cors());
 
-// Assuming your JSON file is named 'food.json' and located in the same directory
+// Serve static files from the 'images' directory
+app.use('/images', express.static(path.join(__dirname, 'images')));
+
 const foodItems = require('./food.json');
 
 app.get('/food', (req, res) => {

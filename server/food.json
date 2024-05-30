@@ -1,35 +1,56 @@
 [
     {
       "id": 1,
-      "name": "Apple",
-      "image":"/images/egg.png",
-      "text" :"sdhiuhfuvsuhbsk",
-      "type":"breakfast",
-      "price":10
+      "name": "Burger",
+      "shop":"Burger Singh",
+      "rate":4.1,
+      "image":"images/newburger.avif",
+      "text" :"i love apple",
+      "type":"Burger, Fast food,Momos",
+      "price":33 
     },
     {
       "id": 2,
-      "name": "Banana",
-      "image":"/images/egg.png"
+      "name": "egg",
+      "shop":"24 Seven",
+      "rate":3.9,
+      "image":"images/egg.png",
+      "text" :"i love ajay",
+      "type":"Street, Fast food ",
+      "price":40
     },
     {
       "id": 3,
-      "name": "Carrot",
-      "image":"hello"
-    },{
+      "name": "gour",
+      "shop":"Chai point",
+      "image":"images/egg.png",
+      "text" :"sdhiuhfu  vsuhbsk",
+      "type":"breakfast",
+      "price":45
+    },
+    {
       "id": 4,
-      "name": "Apple",
-      "image":"hello"
+      "name": "batra",
+      "image":"images/pancake.png",
+      "text" :"hdsbvj jbgkjg hfuvsuhbsk",
+      "type":"breakfast",
+      "price":35
     },
     {
       "id": 5,
-      "name": "Banana",
-      "image":"hello"
+      "name": "nitin",
+      "image":"images/egg.png",
+      "text" :"my name is nitin",
+      "type":"breakfast",
+      "price":55
     },
     {
       "id": 6,
-      "name": "Carrot",
-      "image":"hello"
+      "name": "yogesh",
+      "image":"images/egg.png",
+      "text" :"i am yogesh",
+      "type":"breakfast",
+      "price":45
     }
 ]
   
