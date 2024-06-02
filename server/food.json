@@ -1,56 +1,123 @@
 [
     {
       "id": 1,
-      "name": "Burger",
-      "shop":"Burger Singh",
+      "name": "burger",
+      "shop":"The Burger Club",
       "rate":4.1,
+      "type":"Burger, Fast Food, Coffee...",
+      "price" :"200 for one",
       "image":"images/newburger.avif",
-      "text" :"i love apple",
-      "type":"Burger, Fast food,Momos",
-      "price":33 
+      "time":"23 min" 
     },
     {
       "id": 2,
-      "name": "egg",
+      "name": "burger",
       "shop":"24 Seven",
       "rate":3.9,
-      "image":"images/egg.png",
-      "text" :"i love ajay",
-      "type":"Street, Fast food ",
-      "price":40
+      "type":"Street Food, Momos,Drink...",
+      "price" :"150 for one",
+      "image":"images/24 seven.jpg",
+      "time":"33 min"
     },
     {
       "id": 3,
-      "name": "gour",
-      "shop":"Chai point",
-      "image":"images/egg.png",
-      "text" :"sdhiuhfu  vsuhbsk",
-      "type":"breakfast",
-      "price":45
+      "name": "burger",
+      "shop":"Bikanervala",
+      "rate":4.3,
+      "type":"Mithai, North Indian, Sou...",
+      "price" :"250 for one",
+      "image":"images/b3.jpg",
+      "time":"25 min" 
     },
     {
       "id": 4,
-      "name": "batra",
-      "image":"images/pancake.png",
-      "text" :"hdsbvj jbgkjg hfuvsuhbsk",
-      "type":"breakfast",
-      "price":35
+      "name": "burger",
+      "shop":"Keventers-Milkshakes & Dess...",
+      "rate":4.1,
+      "type":"Shake, Desserts, Ice Cre...",
+      "price" :"100 for one",
+      "image":"images/milkshake.webp",
+      "time":"32 min" 
     },
     {
       "id": 5,
-      "name": "nitin",
-      "image":"images/egg.png",
-      "text" :"my name is nitin",
-      "type":"breakfast",
-      "price":55
+      "name": "Biryani",
+      "shop":"Batra Biryani",
+      "rate":4.4,
+      "type":"Biryani...",
+      "price" :"250 for one",
+      "image":"images/batra.webp",
+      "time":"44 min" 
     },
     {
       "id": 6,
-      "name": "yogesh",
-      "image":"images/egg.png",
-      "text" :"i am yogesh",
-      "type":"breakfast",
-      "price":45
+      "name": "burger",
+      "shop":"Wow ! Momo",
+      "rate":3.8,
+      "type":"Momos, Street Food, Drink...",
+      "price" :"100 for one",
+      "image":"images/momo.jpg",
+      "time":"35 min"
+    },
+    {
+      "id": 7,
+      "name": "burger",
+      "shop":"Veer ji Malai Chap wale",
+      "rate":4.2,
+      "type":"North Indian, Malai Chap...",
+      "price" :"250 for one",
+      "image":"images/chap.jpg",
+      "time":"30 min" 
+    },
+    {
+      "id": 8,
+      "name": "KFC",
+      "shop":"KFC",
+      "rate":4.3,
+      "type":"Burger, Rolls, Fast Food...",
+      "price" :"300 for one",
+      "image":"images/kfc.webp",
+      "time":"32 min" 
+    },
+    {
+      "id": 9,
+      "name": "Subway",
+      "shop":"Subway",
+      "rate":4.3,
+      "type":"Healthy Food, Sandwich, Drinks...",
+      "price" :"100 for one",
+      "image":"images/subway.avif",
+      "time":"24 min" 
+    },
+    {
+      "id": 10,
+      "name": "Chai Point",
+      "shop":"Chai Point",
+      "rate":3.1,
+      "type":"Tea, Coffee, Beverages... ",
+      "price" :"100 for one",
+      "image":"images/chai.avif",
+      "time":"20 min" 
+    },
+    {
+      "id": 11,
+      "name": "Dominos's",
+      "shop":"Domino's",
+      "rate":4.2,
+      "type":"Pizza, Beverages",
+      "price" :"300 for one",
+      "image":"images/domino.jpg",
+      "time":"30 min" 
+    },
+    {
+      "id": 12,
+      "name": "thali",
+      "shop":"Ghar Ki Rasoi",
+      "rate":4.1,
+      "type":"Thali, Dal, Rice, Roti...",
+      "price" :"150 for one",
+      "image":"images/thali.jpg",
+      "time":"27 min" 
     }
 ]
   

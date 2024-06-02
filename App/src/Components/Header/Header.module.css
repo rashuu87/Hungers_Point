@@ -25,3 +25,6 @@
     align-items: center;
     gap: 10rem;
 }
+.login{
+    cursor: pointer;
+}

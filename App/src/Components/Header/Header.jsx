@@ -14,7 +14,7 @@ function Header() {
             <li>Cart</li>
             <li>User</li>
         </ul>
-      <span>Login</span>
+      <span className={styles.login}>Login</span>
       </div>
     </header>
   )

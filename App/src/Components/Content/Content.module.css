@@ -1,36 +1,56 @@
 .FoodCardContainer{
-    background-color: rgb(151, 215, 215);
     display: flex;
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
+    width: 100%;
 }
 
 .innerBox{
     width: 300px;
     height: 300px;
-    border: 0.66px solid;
+    border: 0.66px solid blue;
     border-radius: 20px;
     padding: 8px; 
-    margin: 20px;   
-}
-.images{
-    
-}
-.nameAndRating{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    width: 300px; 
-}
-.hotelAndprice{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    width: 300px;
+    margin: 10px;   
 }
 .imgInfo{
-    width: 290px;
+    width: 300px;
     height: 200px;
     border-radius: 15px;
+}
+
+.shopAnadRate{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 300px; 
+    padding: 0 10px;
+    font-weight: bold; 
+    .rate{
+        border-radius: 5px;
+        padding: 0 5px;
+        background: green;
+        color: white; 
+        align-items: center;
+    }
+    .starIcon{
+        height: 10px;
+    }
+}
+.typeAndPrice{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 300px;
+    padding: 0 10px;
+    color: grey;
+    font-size: small;
+}
+.RuppeIcon{
+    height: 10px; 
+}
+.time{
+    margin-left: 245px;
+    font-size: small;
 }
