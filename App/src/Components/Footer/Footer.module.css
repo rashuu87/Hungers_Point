@@ -1,9 +1,40 @@
 .foot{
+    display: flex;
+    gap: 5rem;
     padding: 0.5rem;
     color: white;
     background: rgb(24, 18, 10);
-    text-align: center;
-    font-size: 1rem;
-    text-transform: capitalize;
+    
+    
     margin: 0.5rem 0 0 0;
+}
+.elements{
+    display: flex;
+    gap: 10rem;
+    text-transform: uppercase;
+    
+}
+.Product1{
+    display: flex;
+    
+}
+.Product{
+    list-style: none;
+    font-size: small;
+    text-transform: capitalize;
+    text-align: start;
+}
+.Company{
+    list-style: none;
+    font-size: small;
+    text-transform: capitalize;
+    text-align: start;
+}
+.Developers{
+    list-style: none;
+    font-size: small;
+    text-transform: capitalize;
+}
+.Social{
+    list-style: none;
 }
