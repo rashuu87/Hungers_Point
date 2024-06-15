@@ -3,16 +3,13 @@
     gap: 5rem;
     padding: 0.5rem;
     color: white;
-    background: rgb(24, 18, 10);
-    
-    
+    background: rgb(24, 18, 10);  
     margin: 0.5rem 0 0 0;
 }
 .elements{
     display: flex;
     gap: 10rem;
     text-transform: uppercase;
-    
 }
 .Product1{
     display: flex;
