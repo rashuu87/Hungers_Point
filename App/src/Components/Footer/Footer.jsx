@@ -5,32 +5,32 @@ const Footer = () => {
         <footer className={Style.foot}>
             <img src="./images/logo.png" alt="logo"></img>
             <div className={Style.elements}>
-                <div className={Style.Product1}>
+                <div className={Style.cont}>
                     <span>Product</span>
-                    <ul className={Style.Product}>
+                    <ul className={Style.ulItem}>
                         <li>Feature</li>
                         <li>Integrations</li>
                         <li>Pricing</li>
                         <li>FAQ</li>
                     </ul>
                 </div>
-                <div className={Style.Company1}>
+                <div className={Style.cont}>
                     <span>Company</span>
-                    <ul className={Style.Company}>
+                    <ul className={Style.ulItem}>
                         <li>Privacy</li>
                         <li>Terms and Services</li>
                     </ul>
                 </div>
-                <div className={Style.Developers1}>
+                <div className={Style.cont}>
                     <span>Developers</span>
-                    <ul className={Style.Developers}>
+                    <ul className={Style.ulItem}>
                         <li>Documentation</li>
                         <li>Guide</li>
                     </ul>
                 </div>
-                <div>
+                <div className={Style.cont}>
                     <span>Social media</span>
-                    <ul className={Style.Social}>
+                    <ul className={Style.ulItem}>
                         <li>facebook</li>
                         <li>twitter</li>
                         <li>instagram</li>
